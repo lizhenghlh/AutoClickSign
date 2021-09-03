@@ -1,2 +1,2 @@
 # AutoClickSign
-Auto click sing button
+Auto click sign button
